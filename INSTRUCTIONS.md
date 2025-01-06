@@ -6,7 +6,7 @@ Thank you for participating in the **Royal Backend Challenges**! Follow the step
 
 ## 📂 Step 1: Create a Public Repository  
 1. Create a new public repository on GitHub.  
-2. Name it something meaningful, like `royal-backend-challenges`.  
+2. Name it something meaningful, like `backend-challenges`.  
 
 ---
 
